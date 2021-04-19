@@ -1,0 +1,1 @@
+web: yii serve 0.0.0.0
